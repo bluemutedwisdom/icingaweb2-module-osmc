@@ -1,0 +1,4 @@
+Name: Osmc
+Version: 0.0.1
+Depends: monitoring
+Description: OSMC - A hook demo module for OSMC 2017
