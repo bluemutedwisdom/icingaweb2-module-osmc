@@ -15,7 +15,7 @@
 ## About
 
 A simple module for demonstrating different hooks. This demo was used in
-our OSMC 2017 talk.
+our OSMC 2017 talk on [Ops and dev stories: Integrate everything into your monitoring stack](https://www.youtube.com/watch?v=4DKY0zKswfM).
 
 ## License
 
